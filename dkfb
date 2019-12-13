@@ -89,7 +89,7 @@ def loginSC():
 		time.sleep(1)
 		login()
 	else:
-		print"\033[1;96m[!] \033[1;91mSalah!!"
+		print"\033[1;96m[!] \033[1;91msalah cuk!!"
 		time.sleep(1)
                 LoginSC()
 
